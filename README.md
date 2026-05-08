@@ -6,7 +6,7 @@
 
 Olá! Me chamo **Gustavo Ribas Silestrino**, tenho **19 anos** e sou desenvolvedor **Front-End** com o foco cada vez mais voltado para o **Back-End**.
 
-Atualmente estou evoluindo meus conhecimentos em desenvolvimento web e arquitetura de sistemas, buscando futuramente atuar exclusivamente no desenvolvimento back-end, criando aplicações robustas, seguras e escaláveis, focado em JAVA.
+Atualmente estou evoluindo meus conhecimentos em desenvolvimento web e arquitetura de sistemas, buscando futuramente atuar exclusivamente no desenvolvimento back-end, criando aplicações robustas, seguras e escaláveis.
 
 🎓 Faço faculdade no **SENAI**  
 💻 Apaixonado por tecnologia e desenvolvimento  
@@ -18,23 +18,17 @@ Atualmente estou evoluindo meus conhecimentos em desenvolvimento web e arquitetu
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<img align="center" alt="JavaScript" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img align="center" alt="Java" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
-<img align="center" alt="Git" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="center" alt="Github" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 </div>
 
