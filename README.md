@@ -6,7 +6,7 @@
 
 Olá! Me chamo **Gustavo Ribas Silestrino**, tenho **19 anos** e sou desenvolvedor **Front-End** com o foco cada vez mais voltado para o **Back-End**.
 
-Atualmente estou evoluindo meus conhecimentos em desenvolvimento web e arquitetura de sistemas, buscando futuramente atuar exclusivamente no desenvolvimento back-end, criando aplicações robustas, seguras e escaláveis.
+Atualmente estou evoluindo meus conhecimentos em desenvolvimento web e arquitetura de sistemas, buscando futuramente atuar exclusivamente no desenvolvimento back-end, criando aplicações robustas, seguras e escaláveis, focado em JAVA.
 
 🎓 Faço faculdade no **SENAI**  
 💻 Apaixonado por tecnologia e desenvolvimento  
